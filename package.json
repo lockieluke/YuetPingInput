@@ -1,0 +1,18 @@
+{
+  "name": "yuetpinginput",
+  "version": "1.0.0",
+  "description": "Yuet Ping IME",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo Testing"
+  },
+  "author": "Lockie Luke",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.4"
+  },
+  "dependencies": {
+    "@cliqz/adblocker-electron": "^1.18.3",
+    "cross-fetch": "^3.0.6"
+  }
+}
